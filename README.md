@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Documentation
 
-- [Download JSON](https://cooming.soon)
+- [Download JSON](https://github.com/dhanisetiaji/hometest/blob/main/doc/hometest.postman_collection.json)
 
 ## Run Locally
 
